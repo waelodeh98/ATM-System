@@ -14,10 +14,20 @@ It allows users to login, manage their accounts, perform transactions like depos
 - **Console UI**: Interactive menus for easy navigation.
 
 🖼️ **Screenshots**  
-*(Add screenshots of your console output here if you want)*
+
+![ATM Main Menu](https://github.com/user-attachments/assets/a3a784b0-98fa-450b-bb70-82fe772a4c7e)
+
+![ATM Quick Withdraw Screen](https://github.com/user-attachments/assets/79d5dc15-96a2-48c5-954b-38bfb90c4522)
+
+![ATM Deposit Screen](https://github.com/user-attachments/assets/441e3752-31a3-43eb-b0a3-bc6ebe167aa8)
+
+![ATM Check Balance Screen](https://github.com/user-attachments/assets/41d09677-3843-40e8-adb4-35d7a2dd9f56)
+
+![ATM Normal Withdraw Screen](https://github.com/user-attachments/assets/704530de-c521-4127-9611-532e63eddc4b)
+
+![ATM Login Screen](https://github.com/user-attachments/assets/836dcbaf-b54c-4413-bdc3-b6a3ab664c59)
 
 ---
-
 ## Files in the Project
 - `ATM System.cpp` → Main source code  
 - `ATM System.sln` → Visual Studio solution file  
