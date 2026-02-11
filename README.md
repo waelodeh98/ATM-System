@@ -13,6 +13,8 @@ It allows users to login, manage their accounts, perform transactions like depos
 - **Data Storage**: All client data is stored in `Clients.txt`.  
 - **Console UI**: Interactive menus for easy navigation.
 
+Click on any image to watch the project video on LinkedIn
+
 🖼️ **Screenshots**  
 
 ![ATM Main Menu](https://github.com/user-attachments/assets/a3a784b0-98fa-450b-bb70-82fe772a4c7e)
